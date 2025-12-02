@@ -35,7 +35,7 @@ https://github.com/user-attachments/assets/c9cb80ed-d7bd-403f-b3f8-29e0233edb33
 
 ### **1. Clone the repository:**
 ```bash
-git clone https://github.com/asmith0713/DomainChatbotForSMEs.git
+git clone https://github.com/Shishir2105/DomainSpecificChatBotForSMEs.git
 cd project
 ```
 
